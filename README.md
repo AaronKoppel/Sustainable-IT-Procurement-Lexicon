@@ -1,0 +1,1 @@
+# Sustainable_IT_Procurement_Lexicon
