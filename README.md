@@ -25,6 +25,8 @@ The terms are enumerated as follows:
 - Process: 28 to 45
 - Material: 46 to 54
 
+**Please note that the <i>Sustainable IT Procurement Lexicon</i> is currently in draft form.**
+
 ## Prerequisites
 
 The <i>Sustainable IT Procurement Lexicon</i> is a spreadsheet and best viewed in spreadsheet software. Because it has multiple sheets and is designed for sorting and filtering, it is intended to be downloaded rather than viewed in GitHub directly.
