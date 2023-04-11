@@ -6,7 +6,6 @@
  - [Usage](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#usage)
  - [Technical Schema](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicony/blob/main/README.md#technical-schema)
  - [Download](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#download)
- - [References](https://github.com/AaronKoppel/AppRatDataDictionary/blob/main/README.md#references)
 
 ## Introduction
 
