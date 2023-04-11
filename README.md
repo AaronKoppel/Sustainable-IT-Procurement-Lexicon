@@ -63,4 +63,4 @@ The **Crosswalk** sheet provides the lexicon terms along the columns and the aut
 
 ## Download
 
-To download the data dictionary and all related files, please click on the green "Code" button on the top right of the page, and then select "Download ZIP" from the dropdown menu. Alternatively, you can click [here](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/archive/refs/heads/main.zip)clickx.
+To download the data dictionary and all related files, please click on the green "Code" button on the top right of the page, and then select "Download ZIP" from the dropdown menu. Alternatively, you can click [here](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/archive/refs/heads/main.zip) .
