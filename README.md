@@ -38,7 +38,7 @@ The lexicon contains three sheets:
 - **By Authority** to allow for interpretation of terms according to pertinent federal statute, regulation, policy, guidance, and so forth
 - **Crosswalk** to ease interpretation of coverage of different lexicon terms by corresponding federal authority
 
-The **By Term** sheet consists of 12 columns:
+The **By Term** sheet consists of 12 columns.
  - Term: Name of the lexicon term 
  - Type: Categorization of the lexicon term as power production, power consumption, people, process, or material
  - ID: From 1 to 54 as noted above
@@ -48,11 +48,11 @@ The **By Term** sheet consists of 12 columns:
  - Key Federal Law(s): Reference to federal authorities 	
  - Key Federal Policies/Guidance/Programs: Reference to relevant federal policies, guidance, and programs with associated links	
  - ENERGY STAR Certified (Y/N): Determination (Yes or No) and link to corresponding ENERGY STAR certified product	
- - EPEAT Registered (Y/N): Determination (Yes or No) and link to corresponding EPEAT registered product	
+ - Electronic Product Environmental Assessment Tool (EPEAT) Registered (Y/N): Determination (Yes or No) and link to corresponding EPEAT registered product
  - Other Standards: Listing of relevant federal and industry standards, and corresponding link(s)	
  - Notes: Space for additional notes, if needed
 
-The **By Authority** sheet consists of 6 columns:
+The **By Authority** sheet consists of 6 columns.
 - Authority: Citation of the relevant federal authority with corresponding hyperlink 
 - Name or Brief Description:	Name or short description of the relevant federal authority
 - Type:	Law, Executive Order, Guidance, Policy, Recommendation, Federal Standard, Industry Standard, or Other
@@ -64,5 +64,4 @@ The **Crosswalk** sheet provides the lexicon terms along the columns and the aut
 
 ## Download
 
-To download the data dictionary and all related files, please click on the green "Code" button on the top right of the page, and then select "Download ZIP" from the dropdown menu. Alternatively, you can click [here](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/archive/refs/heads/main.zip).
-
+To download the data dictionary and all related files, please click on the green "Code" button on the top right of the page, and then select "Download ZIP" from the dropdown menu. Alternatively, you can click [here](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/archive/refs/heads/main.zip)
