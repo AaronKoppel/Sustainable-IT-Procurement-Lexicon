@@ -5,7 +5,6 @@
  - [Introduction](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#introduction)
  - [Prerequisites](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#prerequisites)
  - [Usage](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#usage)
- - [Technical Schema](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicony/blob/main/README.md#technical-schema)
  - [Download](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#download)
 
 ## Introduction
