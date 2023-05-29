@@ -32,7 +32,7 @@ The <i>Sustainable IT Procurement Lexicon</i> is a spreadsheet and best viewed i
 
 The lexicon contains fours sheets:
 - **By Term** to allow for interpretation by lexicon term
-- **By Term Endnotes** which correspond to references (indicated by superscripts) throughout in the **By Term** sheet
+- **By Term Endnotes** which correspond to references (indicated by superscripts) throughout the **By Term** sheet
 - **By Authority** to allow for interpretation of terms according to pertinent federal statute, regulation, policy, guidance, and so forth
 - **Crosswalk** to ease interpretation of coverage of different lexicon terms by corresponding federal authority
 
@@ -43,7 +43,7 @@ The **By Term** sheet consists of 11 columns.
 
 The **By Authority** sheet consists of 5 columns.
 | Authority  | Name or Brief Description | Type | Summary or Relevant Language | Applicable Lexicon Term(s) |
-| ---       | ---                      | ---  | ---                         | ---                        |
+| --- | --- | ---  | --- | --- |
 | Citation of the relevant federal authority with corresponding hyperlink  | Name or short description of the relevant federal authority  | Law, Executive Order, Guidance, Policy, Recommendation, Federal Standard, Industry Standard, or Other  | Either direct quotation or summary of pertinant language in the corresponding authority  | List of lexicon term or terms to which the authority applies  |
 
 The **Crosswalk** sheet provides the 54 lexicon terms along the columns and the authorities along the rows. By filtering a given term for "1," the user can see the relevant authorities for that term, each with corresponding hyperlinks.
