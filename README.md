@@ -42,9 +42,9 @@ The **By Term** sheet consists of 11 columns.
 
 
 The **By Authority** sheet consists of 6 columns.
-| Authority | Name or Brief Description | Type | Summary or Relevant Language | Applicable Lexicon Term(s) | Notes |
-| ---       | ---                      | ---  | ---                         | ---                        | ---   |
-| Citation of the relevant federal authority with corresponding hyperlink  | Name or short description of the relevant federal authority  | Law, Executive Order, Guidance, Policy, Recommendation, Federal Standard, Industry Standard, or Other  | Either direct quotation or summary of pertinant language in the corresponding authority  | List of lexicon term or terms to which the authority applies  | Space for additional notes, if needed |
+| Authority | Name or Brief Description | Type | Summary or Relevant Language | Applicable Lexicon Term(s) |
+| ---       | ---                      | ---  | ---                         | ---                        |
+| Citation of the relevant federal authority with corresponding hyperlink  | Name or short description of the relevant federal authority  | Law, Executive Order, Guidance, Policy, Recommendation, Federal Standard, Industry Standard, or Other  | Either direct quotation or summary of pertinant language in the corresponding authority  | List of lexicon term or terms to which the authority applies  |
 
 
 The **Crosswalk** sheet provides the 54 lexicon terms along the columns and the authorities along the rows. By filtering a given term for "x," the user can see all relevant authorities for that term, each with corresponding hyperlinks.
