@@ -39,10 +39,10 @@ The lexicon contains three sheets:
 
 The **By Term** sheet consists of 11 columns.
 | Term | Type | ID | Description | Recommendation(s) | Key Federal Law(s) | Key Federal Policies/Guidance/Programs | ENERGY STAR Certified (Y/N) | Electronic Product Environmental Assessment Tool (EPEAT) Registered (Y/N) | Other Standards | Notes |
-| ---     | ---     | ---   | ---            | ---                   | ---               | ---                                  | ---                          | ---                                          | ---           | ---   |
+| ---     | ---        | ---     | ---            | ---                   | ---               | ---                                  | ---                           | ---                                          | ---            | ---     |
 | Name of the lexicon term  | Categorization of the lexicon term as power production, power consumption, people, process, or material  | From 1 to 54 as noted above  | Brief description of lexicon term  | Recommendation(s) to assist federal agencies procure sustainable IT  | Reference to federal authorities  	| Reference to relevant federal policies, guidance, and programs with associated links	| Determination (Yes or No) and link to corresponding ENERGY STAR certified product	| Determination (Yes or No) and link to corresponding EPEAT registered product 	| Listing of relevant federal and industry standards, and corresponding link(s)	| Space for additional notes, if needed |
 
-- The **By Authority** sheet consists of 6 columns.
+The **By Authority** sheet consists of 6 columns.
 - Authority: Citation of the relevant federal authority with corresponding hyperlink 
 - Name or Brief Description:	Name or short description of the relevant federal authority
 - Type:	Law, Executive Order, Guidance, Policy, Recommendation, Federal Standard, Industry Standard, or Other
