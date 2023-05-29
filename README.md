@@ -47,7 +47,7 @@ The **By Authority** sheet consists of 5 columns.
 | Citation of the relevant federal authority with corresponding hyperlink  | Name or short description of the relevant federal authority  | Law, Executive Order, Guidance, Policy, Recommendation, Federal Standard, Industry Standard, or Other  | Either direct quotation or summary of pertinant language in the corresponding authority  | List of lexicon term or terms to which the authority applies  |
 
 
-The **Crosswalk** sheet provides the 54 lexicon terms along the columns and the authorities along the rows. By filtering a given term for "x," the user can see all relevant authorities for that term, each with corresponding hyperlinks.
+The **Crosswalk** sheet provides the 54 lexicon terms along the columns and the authorities along the rows. By filtering a given term for "1," the user can see the relevant authorities for that term, each with corresponding hyperlinks.
 
 
 ## Download
