@@ -43,14 +43,12 @@ The **By Term** sheet consists of 11 columns.
 | Name of the lexicon term  | Categorization of the lexicon term as power production, power consumption, people, process, or material  | From 1 to 54 as noted above  | Brief description of lexicon term  | Recommendation(s) to assist federal agencies procure sustainable IT  | Reference to federal authorities  	| Reference to relevant federal policies, guidance, and programs with associated links	| Determination (Yes or No) and link to corresponding ENERGY STAR certified product	| Determination (Yes or No) and link to corresponding EPEAT registered product 	| Listing of relevant federal and industry standards, and corresponding link(s)	| Space for additional notes, if needed |
 
 
-
 The **By Authority** sheet consists of 6 columns.
-- Authority: Citation of the relevant federal authority with corresponding hyperlink 
-- Name or Brief Description:	Name or short description of the relevant federal authority
-- Type:	Law, Executive Order, Guidance, Policy, Recommendation, Federal Standard, Industry Standard, or Other
-- Summary or Relevant Language: Either direct quotation or summary of pertinant language in the corresponding authority
-- Applicable Lexicon Term(s):	List of lexicon term or terms to which the authority applies
-- Notes: Space for additional notes, if needed
+| Authority | Name or Brief Description | Type | Summary or Relevant Language | Applicable Lexicon Term(s) | Notes |
+| ---       | ---                      | ---  | ---                         | ---                        | ---   |
+| Citation of the relevant federal authority with corresponding hyperlink  | Name or short description of the relevant federal authority  | Law, Executive Order, Guidance, Policy, Recommendation, Federal Standard, Industry Standard, or Other  | Either direct quotation or summary of pertinant language in the corresponding authority  | List of lexicon term or terms to which the authority applies  | Space for additional notes, if needed |
+
+I hope this helps! Let me know if you have any other questions.
 
 The **Crosswalk** sheet provides the lexicon terms along the columns and the authorities along the rows. By filtering a given term for "x," the user can see all relevant authorities for that term, each with corresponding hyperlinks.
 
