@@ -38,6 +38,9 @@ The lexicon contains three sheets:
 - **Crosswalk** to ease interpretation of coverage of different lexicon terms by corresponding federal authority
 
 The **By Term** sheet consists of 12 columns.
+| Term     | Character |
+| ---      | ---       |
+| Name of lexicon term | `         |
  - Term: Name of the lexicon term 
  - Type: Categorization of the lexicon term as power production, power consumption, people, process, or material
  - ID: From 1 to 54 as noted above
