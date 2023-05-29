@@ -1,4 +1,4 @@
-# Sustainable IT Procurement Lexicon
+# Sustainable IT Procurement Lexicon (Version 1.0)
 
 ## Table of Contents
 
@@ -23,8 +23,6 @@ The terms are enumerated as follows:
 - People: 20 to 27
 - Process: 28 to 45
 - Material: 46 to 54
-
-**Please note that the <i>Sustainable IT Procurement Lexicon</i> is currently in draft form.**
 
 ## Prerequisites
 
