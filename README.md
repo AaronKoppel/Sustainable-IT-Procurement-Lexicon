@@ -46,7 +46,7 @@ The **By Term** sheet consists of 11 columns.
 
 Header | header
 ------ | -----
-Bar | bar
+Bar | bar testing testing testing
 
 </div>
 
