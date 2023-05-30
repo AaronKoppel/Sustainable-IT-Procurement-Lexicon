@@ -33,7 +33,6 @@ The <i>Sustainable IT Procurement Lexicon</i> is a spreadsheet and best viewed i
 
 The lexicon contains three sheets:
 - **By Term** to allow for interpretation by lexicon term
-- **By Term Endnotes** which correspond to references (indicated by superscripts) throughout the **By Term** sheet
 - **By Authority** to allow for interpretation of terms according to pertinent federal statute, regulation, policy, guidance, and so forth
 - **Crosswalk** to ease interpretation of coverage of different lexicon terms by corresponding federal authority
 
@@ -55,4 +54,4 @@ To download the lexicon, please click on the green "Code" button on the top righ
 
 ## Endnotes
 
-Endnotes for the **By Term** sheet will be provided in a separate file contained in the ZIP file.
+Endnotes for the **By Term** sheet are provided in a separate file contained in the ZIP file.
