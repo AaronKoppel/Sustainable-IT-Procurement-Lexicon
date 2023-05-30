@@ -48,6 +48,10 @@ The **By Authority** sheet consists of 5 columns.
 
 The **Crosswalk** sheet provides the 54 lexicon terms along the columns and the authorities along the rows. By filtering a given term for "1," the user can see the relevant authorities for that term, each with corresponding hyperlinks.
 
+|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|
+|----|---------|----|---------|----|---------|----|---------|----|---------|----|---------|----|---------|----|---------|----|---------|
+|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
+
 ## Download
 
 To download the lexicon, please click on the green "Code" button on the top right of the page, and then select "Download ZIP" from the dropdown menu. Alternatively, you can click [here](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/archive/refs/heads/main.zip).
