@@ -13,7 +13,7 @@
 Current Maintainer: GSA’s IT Modernization division at <dccoi@gsa.gov>
 
 Federal IT, facilities, procurement, and sustainability professionals have expressed a need for:
-- Concise, centralized information about how to procure green IT products and services.
+- Concise, centralized information about how to procure green information technology (IT) products and services.
 - Real world examples on how to systematically incorporate and integrate green IT products and services.
 
 The purpose of the <i>Sustainable IT Procurement Lexicon</i> is to align on common standards across government, industry, and academia on sustainable IT acquisition nomenclature, as demonstrated through sustainable data centers. It provides a proposed standard lexicon of 54 procurement terms and associated recommendations for sustainable IT products and services across power production, power consumption, people, processes, and materials, with the overarching aims to maximize environmental, economic, and social benefits as a result of data center operations, and to minimize adverse impacts across these domains. Importantly, this effort is not intended to be exhaustive. Rather, it highlights key and common terms, recommendations, authorities, and resources that federal agencies can leverage for sustainable IT procurements.
@@ -39,7 +39,7 @@ The lexicon contains three sheets:
 The **By Term** sheet consists of 11 columns.
 | Term &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Type | ID | Description | Recommendation(s) | Key Federal Law(s) | Key Federal Policies/Guidance/Programs | ENERGY STAR Certified (Y/N) | Electronic Product Environmental Assessment Tool (EPEAT) Registered (Y/N) | Other Standards | Notes |
 ------ | --------  | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
-| Name of the lexicon term | Categorization of the lexicon term as power production, power consumption, people, process, or material  | From 1 to 54 as noted above  | Brief description of lexicon term | Recommendation(s) to assist federal agencies procure sustainable IT | Reference to federal authorities 	| Reference to relevant federal policies, guidance, and programs with associated links | Determination (Yes or No) and link to corresponding ENERGY STAR certified product	| Determination (Yes or No) and link to corresponding EPEAT registered product	| Listing of relevant federal and industry standards, and corresponding link(s)	| Space for additional notes, if needed |
+| Name of the lexicon term | Categorization of the lexicon term as power production, power consumption, people, process, or material  | From 1 to 54 as noted above | Brief description of lexicon term | Recommendation(s) to assist federal agencies procure sustainable IT | Reference to federal authorities 	| Reference to relevant federal policies, guidance, and programs with associated links | Determination (Yes or No) and link to corresponding ENERGY STAR certified product	| Determination (Yes or No) and link to corresponding EPEAT registered product	| Listing of relevant federal and industry standards	| Space for additional notes, if needed |
 
 The **By Authority** sheet consists of 5 columns.
 | Authority  | Name or Brief Description | Type | Summary or Relevant Language | Applicable Lexicon Term(s) |
@@ -47,10 +47,6 @@ The **By Authority** sheet consists of 5 columns.
 | Citation of the relevant federal authority with corresponding hyperlink  | Name or short description of the relevant federal authority  | Law, Executive Order, Guidance, Policy, Recommendation, Federal Standard, Industry Standard, or Other  | Either direct quotation or summary of pertinant language in the corresponding authority  | List of lexicon term or terms to which the authority applies  |
 
 The **Crosswalk** sheet provides the 54 lexicon terms along the columns and the authorities along the rows. By filtering a given term for "1," the user can see the relevant authorities for that term, each with corresponding hyperlinks.
-
-|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|Name|Value|
-|----|---------|----|---------|----|---------|----|---------|----|---------|----|---------|----|---------|----|---------|----|---------|
-|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
 
 ## Download
 
