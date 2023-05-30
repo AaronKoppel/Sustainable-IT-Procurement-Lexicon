@@ -6,6 +6,7 @@
  - [Prerequisites](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#prerequisites)
  - [Usage](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#usage)
  - [Download](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#download)
+ - [Endnotes](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/blob/main/README.md#endnotes)
 
 ## Introduction
 
@@ -30,7 +31,7 @@ The <i>Sustainable IT Procurement Lexicon</i> is a spreadsheet and best viewed i
 
 ## Usage
 
-The lexicon contains fours sheets:
+The lexicon contains three sheets:
 - **By Term** to allow for interpretation by lexicon term
 - **By Term Endnotes** which correspond to references (indicated by superscripts) throughout the **By Term** sheet
 - **By Authority** to allow for interpretation of terms according to pertinent federal statute, regulation, policy, guidance, and so forth
@@ -51,3 +52,7 @@ The **Crosswalk** sheet provides the 54 lexicon terms along the columns and the 
 ## Download
 
 To download the lexicon, please click on the green "Code" button on the top right of the page, and then select "Download ZIP" from the dropdown menu. Alternatively, you can click [here](https://github.com/AaronKoppel/Sustainable_IT_Procurement_Lexicon/archive/refs/heads/main.zip).
+
+## Endnotes
+
+Endnotes for the **By Term** sheet will be provided in a separate file contained in the ZIP file.
