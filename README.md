@@ -13,8 +13,8 @@
 Current Maintainer: GSA’s IT Modernization division at <dccoi@gsa.gov>
 
 Federal IT, facilities, procurement, and sustainability professionals have expressed a need for:
-- Concise, centralized information about how to procure green information technology (IT) products and services.
-- Real world examples on how to systematically incorporate and integrate green IT products and services.
+- Concise, centralized information about how to procure sustainable information technology (IT) products and services.
+- Real world examples on how to systematically incorporate and integrate sustainable IT products and services.
 
 The purpose of the <i>Sustainable IT Procurement Lexicon</i> is to propose common standards across government, industry, and academia on sustainable IT acquisition nomenclature, as demonstrated through sustainable data centers. It provides a standard lexicon of 54 procurement terms and associated recommendations for sustainable IT products and services across power production, power consumption, people, processes, and materials, with the overarching aims to maximize environmental, economic, and social benefits as a result of data center operations, and to minimize adverse impacts across these domains. Importantly, this effort is not intended to be exhaustive. Rather, it highlights key and common terms, recommendations, authorities, and resources that federal agencies can leverage for sustainable IT procurements.
 
